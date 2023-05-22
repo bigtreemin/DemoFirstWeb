@@ -5,7 +5,7 @@ server:
 spring:
   datasource:
     name: sqlashmead0
-    url: jdbc:mysql://182.16.13.67:3306/testdb?autoReconnect=true&useSSL=false
+    url: jdbc:mysql://182.16.13.67:3306/sqlashmead0?autoReconnect=true&useSSL=false
     username: ashmead0 
     password: O5gQ5hYk
     driver-class-name: com.mysql.jdbc.Driver
