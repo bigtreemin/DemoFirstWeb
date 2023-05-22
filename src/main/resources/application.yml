@@ -4,10 +4,10 @@ server:
 
 spring:
   datasource:
-    name: testdb
-    url: jdbc:mysql://192.168.1.158:3306/testdb?autoReconnect=true&useSSL=false
-    username: bigtreemin
-    password: xiaocao
+    name: sqlashmead0
+    url: jdbc:mysql://182.16.13.67:3306/testdb?autoReconnect=true&useSSL=false
+    username: ashmead0 
+    password: O5gQ5hYk
     driver-class-name: com.mysql.jdbc.Driver
 mybatis:
     mapper-locations: classpath:mapper/*.xml
